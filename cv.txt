@@ -1,0 +1,96 @@
+Kareem Qasarwah
+Jenin, West Bank, Palestine · Email kareemqasarwah2001@gmail.com
+· Phone +972-597334687
+
+Professional Summary
+AISoftware
+Engineer (3 years) building LLMRAG-powered applications and intelligent
+backends at scale. Strong in Python, SQL, REST APIs, and Linux. Proven track
+record shipping production chatbots, real-time translation systems, and data
+assistants. Comfortable with troubleshooting in production, writing clean code,
+and collaborating across engineering and product.
+
+Core Skills
+·       Languages Python, SQL,
+JavaScript, PLSQL, Bash
+·       AIML LLMs (OpenAI
+& similar), RAG, embeddings & vector stores (ChromaDB), result
+reranking, LangChainLangGraph, scikit‑learn, (basic) PyTorch
+·       MLOps  AIOps Linux, ,
+FastAPI, REST, loggingmonitoring basics, CICD (Git), testing & code
+reviews
+·       Data Oracle,
+PostgreSQL, JSONREST backends
+·       Integrations WhatsApp
+Business API, WebSockets, n8n automations
+·       Practices Clean code,
+technical documentation, AgileScrum, cross‑functional collaboration
+
+Professional Experience
+AI
+ Software Engineer — ARXOS
+2022 – Present - Built multiple LLMRAG-native applications
+end-to-end (design → development → deployment), partnering with product, data,
+and backend teams. 
+·       Implemented a Qur’an interpretation assistant (Ibn Kathir only)
+using RAG over curated tafsir content plus a learning-to-rank model to
+improve retrieval answer quality; handled Arabic NLP challenges (diacritics,
+variants, and query normalization). 
+·       Delivered a database “ChartBot” natural-language - SQL
+generation with guardrails, returning tables or charts automatically
+depending on the question; used LangChain tools, schema-aware prompting, and
+RAG over docsmetadata. 
+·       Built an agentic survey-filling chatbot that interviews users
+conversationally and populates structured forms; added slot-filling,
+clarification loops, and validation. 
+·       Shipped a WhatsApp AI chatbot for a restaurant chain that answers
+customer queries, creates orders, and updates order status via
+WhatsApp Business API; integrated with existing order management. 
+·       Developed a real-time Friday sermon speech-to-speech translation
+pipeline (Arabic - ENURetc.) with ~≤3s latency; prototyped
+sign-language support before funding paused. 
+·       Created a Smart Contract Manager that ingests emails, matches
+them against corporate contracts and policies, detects riskconflicts,
+and summarizes findings for the legal team. 
+·       Led the AI core in a large Automotive platform (US) dealers
+onboard inventory and negotiation rules; a chatbot negotiates prices
+with buyers, surfaces financing options by credit score, and schedules test
+drives — handoff to dealer without human ops.
+o   Improved RAG answer quality by adding a ranking layer on top of
+dense retrieval. 
+o   Reduced manual order-intake effort for restaurants by moving to conversational
+ordering. 
+o   Enabled non-technical staff to self-serve analytics via NL → SQL →
+chart workflow.
+Projects (Details)
+·       Qur’an Ibn Kathir RAG — Arabic RAG over tafsir corpus; retrieval hygiene
+(chunking & metadata), cross-encoder style reranking, answer
+grounding, and citations.
+·       DB ChartBot — NL2SQL
+with schematool awareness; outputs tables or charts; guardrails to avoid
+unsafe queries; explainer traces for generated SQL.
+·       Agent Survey Filler — Conversational agent that elicits form fields with
+validation and follow-ups; exports to backend APIsDB.
+·       WhatsApp Restaurant Bot — Intent + order flow, item availability, order
+status; integrated with restaurant backoffice.
+·       Friday Sermon Live Translation — Streaming STT → MT → TTS with latency budget;
+fallbacks and silenceVAD handling; sign-language PoC.
+·       Smart Contract Manager — Email ingestion, policycontract embedding store,
+conflictrisk detection and summarization.
+·       Automotive Dealer Platform — Dealer onboarding & rules, inventory discovery,
+negotiation chatbot, financing, and test-drive scheduling.
+
+Tech Highlights
+Stack Python, FastAPI, LangChainLangGraph, OpenAI APIs,
+ChromaDB, scikit-learn, (basic) PyTorch, Oracle, PostgreSQL, Linux, WebSockets,
+WhatsApp Business API, n8n, Git.
+Ops Containerized services, environment config, basic CI,
+observabilitylogging, production troubleshooting, documentation.
+
+Education
+B.Sc., Computer
+Systems Engineering — Arab American
+University, 2018–2022
+
+Languages
+Arabic (Native), English (Professional)
